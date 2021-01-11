@@ -1,2 +1,2 @@
 # java_geekbrains
-Основы языка Python 
+Java. Быстрый старт
